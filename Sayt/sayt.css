@@ -1,0 +1,311 @@
+body{
+    background-color: #1F2121;
+    margin-top: 30px;
+    overflow-x: hidden;
+}
+.vector{
+    margin-left: 30px;
+}
+.nav{
+    display: flex;
+}
+.navli{
+    color: #EFBA20;
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 30px;
+    padding: 15px;
+}
+ol{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.li{
+    border: 1px solid #EFBA20;
+    list-style: none;
+}
+.pizza{
+    background-image: url(Rasmlar/Background.png);
+    display: flex;
+    margin-top: 30px;
+}
+.opening{
+    padding: 10px;
+    position: relative;
+    top: 150px;
+    left: 370px;
+    color: #1F2121;
+    background-color: #EFBA20;
+    height: 35px;
+    width: 270px;
+}
+.date{
+    color: white;
+    border: 7px solid #EFBA20;
+    height: 35px;
+    padding: 14px;
+    position: relative;
+    top: 120px;
+    left: 370px;
+}
+.food{
+    color: #D4D4D3;
+    position: relative;
+    top: 350px;
+    right: -20px;
+    font-size: 26px;
+    width: 700px;
+}
+.cuqur{
+    width: 200px;
+    height: 70px;
+    position: relative;
+    top: 450px;
+    right: 375px;
+}
+.menu{
+    background-image: url(Rasmlar/Background.png);
+    margin-bottom: 30px;
+}
+.hmenu{
+    color: white;
+    padding-top: 30px;
+    font-size: 50px;
+    margin-left: 800px;
+}
+.menurasm{
+    display: flex;
+    justify-content: space-evenly;
+}
+.menu1{
+    display: flex;
+    justify-content: space-around;
+}
+.menu2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.chicken{
+    width: 300px;
+    background-color: #EFBA20;
+    padding-left: 10px;
+}
+.sena{
+    color: white;
+    padding-left: 10px;
+    height: 25px;
+}
+.sena1{
+    position: relative;
+    bottom: 25px;
+    border: 3px solid #EFBA20;
+}
+.chegirma{
+    background-image: url(Rasmlar/Background.png);
+    display: flex;
+}
+.foiz{
+    display: block;
+    color: #EFBA20;
+    text-align: right;
+    font-size: 50px;
+    margin: 10px;
+    margin-left: 300px;
+}
+.f1{
+    margin-top: 100px;
+}
+.click{
+    text-decoration: none;
+    color: #1F2121;
+    background-color: #EFBA20;
+    font-size: 20px;
+    margin-left: 550px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.vector-2{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 2200px;
+    left: 1300px;
+}
+.experience{
+    color: #EFBA20;
+    font-size: 30px;
+    position: relative;
+    left: 500px;
+    top: 150px;
+}
+.special{
+    background-image: url(Rasmlar/Background.png);
+    margin-top: 30px;
+    height: 1000px;
+}
+.special-month{
+    color: #1F2121;
+    background-color: #EFBA20;
+    font-size: 40px;
+    margin-right: 1000px;
+    padding: 15px;
+    position: relative;
+    top: 70px;
+    left: 70px;
+}
+.lorem{
+    color: white;
+    font-size: 50px;
+    border: 3px #EFBA20 solid;
+    margin-right: 1000px;
+    padding-left: 130px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    top: 30px;
+    left: 70px;
+}
+.lorem2{
+    color: white;
+    font-size: 30px;
+    width: 500px;
+    position: relative;
+    bottom: 1000px;
+    left: 800px;
+}
+.dumbil{
+    position: relative;
+    bottom: 500px;
+    right: 300px;
+}
+.method{
+    background-image: url(Rasmlar/Background.png);
+    margin-top: 30px;
+    display: flex;
+}
+.our-method{
+     width: 600px;
+}
+.h1-2{
+    color: #1F2121;
+    background-color: #EFBA20;
+    font-size: 50px;
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+.p1{
+    color: white;
+    font-size: 50px;
+    border: 6px solid #EFBA20;
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+.live{
+    margin-top: 30px;
+    background-image: url(Rasmlar/Background.png);
+}
+.music{
+    font-size: 50px;
+    color: #1F2121;
+    background-color: #EFBA20;
+    margin-right: 1200px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.jazz{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    border: 6px solid #EFBA20;
+    margin-right: 1200px;
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+.goshtlar{
+    width: 100%;
+    position: relative;
+    top: 140px
+}
+.p2{
+    color: white;
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    bottom: 700px;
+    left: 800px;
+}
+.vector-3{
+    position: relative;
+    left: 730px;
+}
+.ohirgi{
+    margin-top: 100px;
+}
+.meat-experience{
+    color: #EFBA20;
+    position: relative;
+    text-align: center;
+}
+.ochiq{
+    color: #1F2121;
+    background-color: #EFBA20;
+    width: 455px;
+    text-align: center;
+    position: relative;
+    top: 70px;
+    left: 250px;
+    padding: 10px;
+}
+.plan{
+    color: white;
+    width: 450px;
+    border: 3px solid #EFBA20;
+    text-align: center;
+    position: relative;
+    left: 250px;
+    top: 40px;
+    padding: 10px;
+}
+.home{
+    color: white;
+    font-size: 30px;
+    width: 100px;
+    position: relative;
+    bottom: 100px;
+    left: 800px;
+}
+.blog{
+    color: white;
+    font-size: 30px;
+    width: 150px;
+    position: relative;
+    bottom: 230px;
+    left: 1000px;
+}
+.madison{
+    color: white;
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+.ilovalar{
+    position: relative;
+    left: 1000px;
+    bottom: 100px;
+    padding-left: 30px;
+}
+.grill{
+    font-size: 50px;
+    position: relative;
+    color: #EFBA20;
+    left: 1300px;
+    bottom: 200px;
+}
